@@ -1,2 +1,2 @@
 ## Arch Linux dots
-![](images/unixporn.png)
+![](images/git.png)
