@@ -1,7 +1,7 @@
 import requests
 
 CITY = "2754618"
-KEY = "e48af1563fc6680e0697296db737483e"
+KEY = ""
 UNITS = "Metric"
 UNITKEY = "C"
 
